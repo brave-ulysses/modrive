@@ -14,4 +14,3 @@ https://www.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf
 100v 20a mosfet
 PSMN038-100YLX
 https://www.mouser.com/datasheet/2/916/PSMN038-100YL-1320627.pdf
-
