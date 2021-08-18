@@ -1,6 +1,6 @@
 # modrive
 more voltage odrive
-targeting connection stm32f407 and stm32f767 dev boards
+targeting stm32f407 and stm32f767 dev boards
 
 kicad-5.99 used for schematic and board layout
 
