@@ -1,6 +1,13 @@
 # modrive
-more voltage odrive
-targeting stm32f407 and stm32f767 dev boards
+more voltage odrive. targeting dev boards:\
+	stm32f4 - STM32F407G-DISC1\
+	https://www.mouser.com/datasheet/2/389/stm32f4discovery-1848751.pdf
+
+	stm32f7 - NUCLEO-F767ZI\
+	https://www.mouser.com/datasheet/2/389/nucleo-l496zg-1848160.pdf
+        
+	and bare chip STM32F407VG\
+	https://www.mouser.com/datasheet/2/389/dm00037051-1797298.pdf
 
 kicad-5.99 used for schematic and board layout
 
