@@ -1,5 +1,5 @@
 # modrive
-more voltage odrive. targets:\
+more voltage odrive. targets:
 
 stm32f4 - STM32F407G-DISC1\
 	https://www.mouser.com/datasheet/2/389/stm32f4discovery-1848751.pdf
