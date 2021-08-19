@@ -14,15 +14,15 @@ infineon 600v gate driver. integrated boot strap diode\
 
 100v 30a mosfet\
 	PSMN038-100YLX\
+	100     $0.469  $46.90\
 	https://www.mouser.com/datasheet/2/916/PSMN038-100YL-1320627.pdf
-	100	$0.469	$46.90\
 	
 200v 95a mosfet\
 	SQM90142E_GE3\
+	100     $2.27   $227.00\
 	https://www.mouser.com/datasheet/2/427/sqm90142e-1766862.pdf
-	100	$2.27	$227.00
 
 200v 53a mosfet\
 	FDB52N20TM\
+	100     $1.92   $192.00\
 	https://www.mouser.com/datasheet/2/308/1/FDB52N20_D-2312151.pdf
-	100	$1.92	$192.00
