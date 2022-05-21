@@ -34,3 +34,8 @@ infineon 600v gate driver. integrated boot strap diode\
 	FDB52N20TM\
 	100     $1.92   $192.00\
 	https://www.mouser.com/datasheet/2/308/1/FDB52N20_D-2312151.pdf
+
+600v 35a mosfet\
+        SIHG080N60E-GE3\
+        100	$3.85	$385.00\
+        https://www.mouser.com/datasheet/2/427/sihg080n60e-2898282.pdf
